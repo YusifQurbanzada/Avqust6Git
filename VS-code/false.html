@@ -9,22 +9,16 @@
 
 <body>
     <script>
-        
-        function enBoyukEded(a, b, c) {
-            if (a >= b && a >= c) {
-                console.log("Ən böyük ədəd:", a);
-            }
-
-            else if (b >= a && b >= c) {
-                console.log("Ən böyük ədəd:", b);
-            }
-
-            else {
-                console.log("Ən böyük ədəd:", c);
+        function cütveyatək(n) {
+            if (n % 2 === 0) {
+                return "Cüt";
+            } else {
+                return "Tək əded";
             }
         }
 
-        enBoyukEded(15, 22, 9);
+        console.log(cütveyaTək(21));
+        console.log(cütveyaTək(34));
 
     </script>
 </body>
