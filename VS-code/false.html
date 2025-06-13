@@ -9,16 +9,16 @@
 
 <body>
     <script>
-        function cütveyatək(n) {
-            if (n % 2 === 0) {
-                return "Cüt";
-            } else {
-                return "Tək əded";
+        function tekEdedleriCapEt(n) {
+            for (let i = 1; i <= n; i++) {
+                if (i % 2 !== 0) {
+                    console.log(i);
+                }
             }
         }
 
-        console.log(cütveyaTək(21));
-        console.log(cütveyaTək(34));
+        // Funksiyanı nümunə üçün çağırırıq:
+        tekEdedleriCapEt(15);
 
     </script>
 </body>
