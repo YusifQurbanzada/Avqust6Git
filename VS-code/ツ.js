@@ -1,11 +1,6 @@
-1.
-function onemore() {
-    console.log("Salam Dunya")
+const sans = Yusif
+const rand0m = 0
+while(rand0m > 5) {
+    console.log(sans)
+    rand0m++
 }
-onemore()
-
-2.
-function Belong(want) {
-    console.log(`Hi ${want}`)
-}
-onemore("Jason")
