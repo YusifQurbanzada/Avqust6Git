@@ -1,17 +1,36 @@
-//ツ.1
-function Sans(s) {
-    if (s % 2 === 0) {
-      return "cut";
+//asan;
+function sans(s) {
+    console.log(`salam ${s}`)
+  }
+  
+sans("Sans")
+//asan2
+console.log(Math.pow(2))
+//asan3
+function sans(y, m) {
+    return y + m;
+}
+sans(8, 2)
+//orta
+function sans(a, b) {
+    if (a > b) {
+      return a;
+    } else {
+      return b;
+    }
+}
+console.log(99, 134)
+//orta2
+function sansie(w) {
+    if (w % 2 === 0) {
+      return "Cut";
     } 
     else {
-      return "tek";
+      return "Tek";
     }
-  }
-Sans(3)
+}
+sansie(9)
+//cetin;
+//hec birini basa dusmedim :c
 
-//ツ.2
-function Sans2(n, s, c) {
-    return Math.max(n, s, c);
-  }
-
-Sans2(24, 125, 546)
+  
