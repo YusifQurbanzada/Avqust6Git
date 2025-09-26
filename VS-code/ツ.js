@@ -16,4 +16,4 @@ let arr = ["sans", "Key", "bluudud", "corruptNature"]
 console.log(arr)
 //tap4
 let lit = ["sans", "Rand0m guest", "smt"]
-lit[1](clasified)
+lit[1] = "clasified"
