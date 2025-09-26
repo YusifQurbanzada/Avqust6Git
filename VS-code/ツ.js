@@ -14,3 +14,6 @@ for (let i = 1; i <= 10; i++) {
 //tap3
 let arr = ["sans", "Key", "bluudud", "corruptNature"]
 console.log(arr)
+//tap4
+let lit = ["sans", "Rand0m guest", "smt"]
+lit[1](clasified)
