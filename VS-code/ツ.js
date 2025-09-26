@@ -11,3 +11,6 @@ for (let i = 1; i <= 10; i++) {
     }
     console.log(i);
 }
+//tap3
+let arr = ["sans", "Key", "bluudud", "corruptNature"]
+console.log(arr)
