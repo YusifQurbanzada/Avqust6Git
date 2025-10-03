@@ -21,7 +21,9 @@ lit[1] = "clasified"
 const neenja = [
     "hekayeVeyaBolum: Falling Undertale",
     "hekayeVeyaBolum: be scared be angry",
-    "hekayeVeyaBolum: we become what we hold:)",
+    "hekayeVeyaBolum: we become what we hold:)"
   ];
-
+  neenja.forEach(function(neenja) {
+    console.log(neenja);
+  });
   
