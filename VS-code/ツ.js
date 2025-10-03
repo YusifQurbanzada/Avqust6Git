@@ -26,4 +26,11 @@ const neenja = [
   neenja.forEach(function(neenja) {
     console.log(neenja);
   });
-  
+//tAp6
+const Sns = ["cor", "car", 34];
+console.log(Sns.push("YAAI"))
+console.log(Sns.unshift("oil"))
+console.log(Sns.shift());
+console.log(Sns.pop());
+
+
