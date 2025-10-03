@@ -22,11 +22,6 @@ const neenja = [
     "hekayeVeyaBolum: Falling Undertale",
     "hekayeVeyaBolum: be scared be angry",
     "hekayeVeyaBolum: we become what we hold:)",
-    "hekayeVeyaBolum: HEKAYE",
-    "hekayeVeyaBolum: fight sans",
-    "hekayeVeyaBolum: muheh"
   ];
-  episodes.forEach(function(neenja) {
-    console.log(neenja);
-  });
+
   
