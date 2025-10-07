@@ -49,13 +49,13 @@ whatdoyouwant.unshift("DETERMINATION!!!")
 whatdoyouwant.push("PATIENCE!!!");
 whatdoyouwant.push("REALIABLE!!!");
 console.log(whatdoyouwant);
-
-whatdoyouwant.pop(); 
-
-let whatdoyouwant2 = whatdoyouwant.join(" -> ");
-
-console.log(whatdoyouwant);
-
-
-
-
+whatdoyouwant.pop();
+let whatdoyouwant2 = whatdoyouwant.join(" ---> ");
+console.log(whatdoyouwant)
+//tap10
+const Oge = [16, 89, 35, 23, 9, 50, 734, 83, 930, 1300];
+const [snasss, sixseven, ...rememberYourBf] = Oge;
+console.log(Oge); 
+console.log(snasss); 
+console.log(sixseven); 
+console.log(rememberYourBf);
