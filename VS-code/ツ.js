@@ -32,5 +32,30 @@ console.log(Sns.push("YAAI"))
 console.log(Sns.unshift("oil"))
 console.log(Sns.shift());
 console.log(Sns.pop());
+//(tap7)(taplar)
+let undertaleAu = ["ULB'tale", "Swapfell", "Underfell"];
+undertaleAu.push("Outerfell");
+undertaleAu.pop();  
+undertaleAu.unshift("Dusttale"); 
+undertaleAu.shift(); 
+//tap8
+let Murdertale = "Js is fun";
+let Snas = Murdertale.split(" "); 
+Snas.push("Yeah"); 
+let YAAi = Snas.join(" "); 
+//tap9
+let whatdoyouwant = [];
+whatdoyouwant.unshift("DETERMINATION!!!")
+whatdoyouwant.push("PATIENCE!!!");
+whatdoyouwant.push("REALIABLE!!!");
+console.log(whatdoyouwant);
+
+whatdoyouwant.pop(); 
+
+let whatdoyouwant2 = whatdoyouwant.join(" -> ");
+
+console.log(whatdoyouwant);
+
+
 
 
