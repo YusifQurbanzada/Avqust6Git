@@ -59,3 +59,7 @@ console.log(Oge);
 console.log(snasss); 
 console.log(sixseven); 
 console.log(rememberYourBf);
+//tap11
+const omg = [12, 45, 7, 98, 33, 60, 21, 5, 87, 40]
+const skale = Math.max(...omg);
+console.log(skale);
