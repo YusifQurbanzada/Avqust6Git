@@ -65,7 +65,7 @@ const skale = Math.max(...omg);
 console.log(skale);
 //tap11
 let Snas2 = [3, 7, 11, 15, 20];
-console.log("massiv:", );
+console.log("massiv:", Snas2);
 
 let Snas3 = [...Snas2];
 
