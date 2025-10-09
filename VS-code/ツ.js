@@ -63,3 +63,15 @@ console.log(rememberYourBf);
 const omg = [12, 45, 7, 98, 33, 60, 21, 5, 87, 40]
 const skale = Math.max(...omg);
 console.log(skale);
+//tap11
+const Snas2 = [3, 7, 11, 15, 20];
+console.log("massiv:", );
+
+const Snas3 = [...Snas2];
+
+const snas4 = Snas3.map(number => number * 2);
+
+console.log("---->");
+console.log("massiv2:", snas4);
+
+console.log("massiv3:", Snas2);
