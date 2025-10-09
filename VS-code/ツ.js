@@ -81,3 +81,20 @@ const seherler = ["Baki", "Gence", "Sumqayit", "Lenkeran", "Qebele"];
 seherler.forEach(seher => {
     console.log(seher);
 });
+//tap13
+function snas6(massiv) {
+    console.log("Massivdeki ededler menfi:");
+    massiv.forEach(eded => {
+        if (eded < 0) {
+            console.log(eded);
+        }
+    });
+}
+
+function snas6(massiv) {
+    const menfiler = massiv.filter(eded => eded < 0);
+    console.log("massivdeki ededler:", menfiler);
+}
+
+snas6([-10, 5, -2, 8]);
+snas6([-11, 6, -3, 9]);
